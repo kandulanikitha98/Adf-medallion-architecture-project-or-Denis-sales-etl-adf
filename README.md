@@ -1,0 +1,2 @@
+# Adf-medallion-architecture-project-or-Denis-sales-etl-adf
+End-to-end Azure data warehousing project using Medallion Architecture (Bronze/Silver/Gold) with Azure Data Factory. Ingests sales data from Flat Files, Excel, CSV, MySQL &amp; MongoDB into ADLS Gen2, transforms and models it into a star schema (SalesFact + DimProduct, DimCategory, DimSubCategory, DimGeography, DimSalesRep) for analytics.
